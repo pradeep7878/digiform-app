@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digiform-app/static/css/main.b4a83798.css",
+    "main.js": "/digiform-app/static/js/main.e642f2c9.js",
+    "static/js/453.7bf7ff73.chunk.js": "/digiform-app/static/js/453.7bf7ff73.chunk.js",
+    "index.html": "/digiform-app/index.html",
+    "main.b4a83798.css.map": "/digiform-app/static/css/main.b4a83798.css.map",
+    "main.e642f2c9.js.map": "/digiform-app/static/js/main.e642f2c9.js.map",
+    "453.7bf7ff73.chunk.js.map": "/digiform-app/static/js/453.7bf7ff73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a83798.css",
+    "static/js/main.e642f2c9.js"
+  ]
+}
